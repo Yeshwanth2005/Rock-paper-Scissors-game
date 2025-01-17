@@ -48,8 +48,11 @@ A simple Python implementation of the classic Rock-Paper-Scissors game. This int
 ->Python 3.x installed on your system.
 
 **Running the Game**
+
+
 1.Clone the repository:
 
+          git clone https://github.com/Yeshwanth2005/Rock-paper-Scissors-game.git
 
 2.Navigate to the project directory:
 
@@ -57,6 +60,9 @@ A simple Python implementation of the classic Rock-Paper-Scissors game. This int
 
         
 3.Run the script:
+
+          python rock_paper_scissors.py
+          
 
 **Code Overview**
 -----------------
